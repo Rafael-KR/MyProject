@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "foto": "https://www.nuclearblast.de/static/articles/276/276602.jpg/1000x1000.jpg",
+    "titulo": "Evento 1",
+    "descricao": "Esta é uma descrição exemplo",
+    "valor": 10,
+    "local": "Torres - RS",
+    "data": "02/12/2019"
+  },
+  {
+    "id": 2,
+    "foto": "https://f4.bcbits.com/img/a0092571968_10.jpg",
+    "titulo": "Evento 2",
+    "descricao": "Esta é uma descrição exemplo 2",
+    "valor": 25,
+    "local": "Canoas - RS",
+    "data": "18/11/2019"
+  }
+]
